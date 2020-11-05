@@ -1,3 +1,25 @@
+@font-face{
+    font-family: futuristicfont;
+    src: url(futuristicfont.ttf);
+} 
+
 .navbar{
-    background: linear-gradient(115deg, #5500b5, #000000, #000000, #000000);
+    background: linear-gradient(115deg, #5500b5, #000000, #000000);
+}
+.jumbotron{
+    background-color: #000000;
+    text-align: center;
+    color: white;
+
+    /* border-top-style: solid double;
+        border-top-width: 2px;
+        border-top-color: #5500b5;
+    border-top-style: solid double;
+        border-bottom-width: 2px;
+        border-bottom-color: #5500b5; */
+}
+a.navbar-brand{
+    font: futuristicfont;
+    font-family: futuristicfont;
+    font-size: 3em;
 }
