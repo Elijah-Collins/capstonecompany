@@ -3,6 +3,19 @@
     src: url(futuristicfont.ttf);
 } 
 
+html{
+    background-color: #23272A;
+}
+.list-unstyled{
+    background-color: #23272A;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.media{
+    background-color: #23272A;
+    color: white;
+}
 .navbar{
     background: linear-gradient(115deg, #5500b5, #000000, #000000);
 }
@@ -17,6 +30,9 @@
     border-top-style: solid double;
         border-bottom-width: 2px;
         border-bottom-color: #5500b5; */
+}
+.jumbotron-fluid{
+    margin-bottom: 0%;
 }
 a.navbar-brand{
     font: futuristicfont;
