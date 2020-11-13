@@ -39,3 +39,17 @@ a.navbar-brand{
     font-family: futuristicfont;
     font-size: 3em;
 }
+
+/* Checkout Page */
+
+#checkoutheader{
+    background: linear-gradient(#5500b5, #000000);
+    color: white;
+    /* box-shadow: 10px 10px #23272A; */
+}
+.container{
+    margin-right:0%;
+    margin-left: 0%;
+    border-right: 0%;
+    align-content: center;
+}
