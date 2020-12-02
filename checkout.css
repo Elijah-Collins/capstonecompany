@@ -1,0 +1,59 @@
+/* Checkout Page */
+
+@font-face{
+    font-family: futuristicfont;
+    src: url(futuristicfont.ttf);
+} 
+
+html{
+    background-color: #23272A;
+}
+body{
+    color: black;
+    background: black;
+    background-color: black;
+}
+.jumbotron{
+    background: linear-gradient(#5500b5, #000000);
+    text-align: center;
+    color: white;
+
+    /* border-top-style: solid double;
+        border-top-width: 2px;
+        border-top-color: #5500b5;
+    border-top-style: solid double;
+        border-bottom-width: 2px;
+        border-bottom-color: #5500b5; */
+}
+h1{
+    font: futuristicfont;
+    font-family: futuristicfont;
+}
+.row{
+    background: black;
+}
+.mb-3{
+    color: white;
+}
+h6{
+    color: grey;
+}
+.promo{
+    color: #28a745;
+}
+.custom-control-label{
+    color: white;
+}
+.cardText{
+    color: lightgray;
+}
+.total{
+    color: black;
+}
+.btn{
+    background-color: #5500b5;
+}
+.btn-primary{
+    /* border: solid; */
+    border-color: #5500b5;
+}

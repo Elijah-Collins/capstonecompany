@@ -6,16 +6,6 @@
 html{
     background-color: #23272A;
 }
-.list-unstyled{
-    background-color: #23272A;
-    color: white;
-    padding-left: 25px;
-    padding-right: 25px;
-}
-.media{
-    background-color: #23272A;
-    color: white;
-}
 .navbar{
     background: linear-gradient(115deg, #5500b5, #000000, #000000);
 }
