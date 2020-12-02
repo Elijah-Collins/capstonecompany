@@ -29,3 +29,6 @@ a.navbar-brand{
     font-family: futuristicfont;
     font-size: 3em;
 }
+.toCheckoutBtn{
+    align-self: center;
+}
